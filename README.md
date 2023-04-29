@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harry78615
-- 👀 I’m interested in machine learning engineering
-- 🌱 I’m currently learning Machine learning, deeplearning and nueral networks
-- 💞️ I’m looking to collaborate on neural models for NLP
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate Web Technology
 - 📫 How to reach me smhs7861@gmail.com
 
 <!---
